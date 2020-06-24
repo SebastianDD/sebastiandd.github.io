@@ -11,3 +11,6 @@ Fermín Romero de Torres ist ein ehemaliger Geheimdienstmitarbeiter, der auf der
 ## Das ist sein Motto
 Wie Wikipedia schreibt:
 > Daniel überlebt trotz der schweren Schussverletzung und heiratet schließlich Beatriz. Sie bekommen einen Sohn, den sie Julián nennen. Zehn Jahre später erhält Daniel ein ihm und Beatriz gewidmetes Manuskript – Julián Carax hat wieder angefangen zu schreiben und Barceló, der Buchhändler, gründet einen Verlag, der die Werke von Carax herausgeben will – Anfänge neuer Geschichten.
+
+
+<img src="https://images.unsplash.com/photo-1562883676-8c7feb83f09b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"/>
